@@ -1,0 +1,49 @@
+{"player":
+    [
+    {
+      "id": 1,
+      "name": "Camilo Cortes",
+      "username": "CamiloC17",
+      "Location":{
+            "country":"Canada",
+            "city":"Yellowknife"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Daniel Silva",
+      "username": "Daniel0730",
+      "Location":{
+        "country":"Finland",
+        "city":"Helsinki"
+     }
+    },
+    {
+      "id": 3,
+      "name": "Astrid Cely",
+      "username": "Astrid0416",
+      "Location":{
+        "country":"Japan",
+        "city":"Tokio"
+     }
+    },
+    {
+      "id": 4,
+      "name": "Diego Cardenas",
+      "username": "xXDiegoXx",
+      "Location":{
+        "country":"Colombia",
+        "city":"Bogota"
+     }
+    },
+    {
+      "id": 5,
+      "name": "Alejandra Caceres",
+      "username": "Alejandrina0328",
+      "Location":{
+        "country":"Emiratos Árabes",
+        "city":"Dubai"
+     }
+    }
+  ]
+}
